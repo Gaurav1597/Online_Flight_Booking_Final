@@ -1,0 +1,2 @@
+﻿INSERT INTO [dbo].[AspNetRoles] ([Id], [Name], [NormalizedName], [ConcurrencyStamp]) VALUES (N'7aa5b817-d11b-4e3e-b4df-61b3593eda26', N'flight_admin', N'flight_admin', N'72d7ab8e-fb4b-4f21-842e-e1c37721915a')
+INSERT INTO [dbo].[AspNetRoles] ([Id], [Name], [NormalizedName], [ConcurrencyStamp]) VALUES (N'fe81998b-e3d8-447b-a2e0-80fdc7800d28', N'passenger', N'passenger', N'529b7694-478e-4e68-876f-b6ab1af1a065')
